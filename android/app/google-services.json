@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425317062989",
+    "project_id": "flutter-notes-app-tutorial-95",
+    "storage_bucket": "flutter-notes-app-tutorial-95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425317062989:android:fa4fd20f073a68c29eff04",
+        "android_client_info": {
+          "package_name": "in.notesapp.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425317062989-b133oeuh6q0d8djdao4r4fm5bso5h9p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_FZVqoyyZZ8jHqeTSxGMBEb_OzD8ZOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425317062989-b133oeuh6q0d8djdao4r4fm5bso5h9p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
