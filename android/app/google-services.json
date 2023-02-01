@@ -29,6 +29,13 @@
             {
               "client_id": "425317062989-b133oeuh6q0d8djdao4r4fm5bso5h9p7.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "425317062989-um2m43r5437pbbdb22rpem42van7tfui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.notesapp.notesapp"
+              }
             }
           ]
         }

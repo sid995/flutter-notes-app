@@ -63,8 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '425317062989',
     projectId: 'flutter-notes-app-tutorial-95',
     storageBucket: 'flutter-notes-app-tutorial-95.appspot.com',
-    iosClientId:
-        '425317062989-um2m43r5437pbbdb22rpem42van7tfui.apps.googleusercontent.com',
+    iosClientId: '425317062989-um2m43r5437pbbdb22rpem42van7tfui.apps.googleusercontent.com',
     iosBundleId: 'in.notesapp.notesapp',
   );
 }
